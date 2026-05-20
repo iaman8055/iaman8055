@@ -1,23 +1,105 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iaman8055&label=Profile%20views&color=0e75b6&style=flat" alt="iaman8055" /> </p>
+<h3 align="center">
+Backend Software Engineer | Distributed Systems | Agentic AI
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iaman8055" alt="iaman8055" /></a> </p>
-
-- 🌱 I’m currently learning **Java,Springboot,Prisma**
-
-- 📫 How to reach me **iamanchauhan93@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/10LjALdYWkB9DwgpyVdzRlgxjxOvZLVho/view?usp=sharing](https://drive.google.com/file/d/10LjALdYWkB9DwgpyVdzRlgxjxOvZLVho/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Building scalable backend systems, AI orchestration platforms, and distributed microservices architectures.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iaman8055&show_icons=true&locale=en&layout=compact" alt="iaman8055" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iaman8055&" alt="iaman8055" /></p>
+- 🔭 Currently building **CodeNect-r — AI Web Builder**
+- ⚡ Backend Engineer focused on **Java, Spring Boot, Kafka, Redis, and Distributed Systems**
+- 🤖 Building **Agentic AI systems** using LangChain, LangGraph, RAG Pipelines, and Vector Databases
+- 🧠 Interested in **System Design, Event-Driven Architectures, Streaming Systems, and AI Infrastructure**
+- 📫 Reach me at: **iamanchauhan93@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & Distributed Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres,mongodb,redis,docker,aws" />
+</p>
+
+### AI / GenAI
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- LangChain
+- LangGraph
+- RAG Pipelines
+- pgvector
+- ChromaDB
+- LLM Orchestration
+- Multi-Agent Workflows
+
+### Messaging & Infrastructure
+- Apache Kafka
+- Event-Driven Architecture
+- WebSockets
+- Asynchronous Processing
+- Microservices Architecture
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 CodeNect-r — AI Web Builder
+Distributed AI-powered web application generation platform using:
+- Spring Boot
+- Kafka
+- WebSockets
+- LangGraph
+- RAG Pipelines
+- Docker Sandbox Infrastructure
+
+🔗 GitHub: https://github.com/orgs/CodeNect-r/repositories
+
+---
+
+### 🔹 UPI Offline Mesh
+Distributed offline payment system enabling internet-free peer-to-peer transactions using mesh communication and secure synchronization workflows.
+
+Core Concepts:
+- Distributed Systems
+- Cryptography
+- Exactly-Once Processing
+- Fault-Tolerant Synchronization
+
+🔗 GitHub: https://github.com/iaman8055/UPI_Without_Internet
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iaman8055&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iaman8055&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaman8055&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Engineering Interests
+
+- Distributed Systems
+- AI Infrastructure
+- Event-Driven Architectures
+- System Design
+- Backend Performance Optimization
+- Agentic AI Workflows
+- Streaming Systems
+- Concurrency & Scalability
